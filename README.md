@@ -1,0 +1,1 @@
+# example-embed-static-files-go
