@@ -1,6 +1,6 @@
 # Example for embed static files into a binary
 
-This is full project structure example of article **The easiest way to embed static files into a binary file in your Golang app (no external dependencies)**
+This is full project structure example of article [**The easiest way to embed static files into a binary file in your Golang app (no external dependencies)**](https://dev.to/koddr/the-easiest-way-to-embed-static-files-into-a-binary-file-in-your-golang-app-no-external-dependencies-43pc)
 
 Published on [Dev.to](https://dev.to/koddr/the-easiest-way-to-embed-static-files-into-a-binary-file-in-your-golang-app-no-external-dependencies-43pc) @ 31 Jan 2020.
 
