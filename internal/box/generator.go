@@ -52,7 +52,7 @@ func main() {
 
 	// Walking through embed directory
 	err := filepath.Walk(embedFolder, func(path string, info os.FileInfo, err error) error {
-		relativePath := filepath.ToSlash(strings.TrimPrefix(path, embedFolder))
+		relativePath := filepath.ToSlash(strings.TrimPrefix(path, filepath.FromSlash(embedFolder)))
 
 		if info.IsDir() {
 			// Skip directories
